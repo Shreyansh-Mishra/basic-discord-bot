@@ -1,4 +1,4 @@
-# template-for-discordbot
+# basic-discord-bot
 
 
 ----------------------------------------------------------------------
@@ -6,11 +6,7 @@ This project is a template for creating Discord bots.
 
 ----------------------------------------------------------------------
 
-## Commands:
-
 ----------------------------------------------------------------------
-`.ping` - Pings the bot 
+`p!help` - Shows the help and all commands.
 
-`.help` - Shows the help
-
--SS Tech
+-Shreyansh Mishra
